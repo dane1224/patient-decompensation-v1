@@ -1,0 +1,480 @@
+﻿CaseID,Date,Comorbidity
+1 2018-06-30 12:16:00,2018-06-28,Obesity (BMI 30.0-34.9)
+1 2018-06-30 12:16:00,2018-06-26,Closed fracture of both femurs
+511 2018-04-21 08:23:00,2017-09-06,Obesity (BMI 30.0-34.9)
+511 2018-04-21 08:23:00,2017-09-05,"Hydronephrosis, left"
+511 2018-04-21 08:23:00,2017-09-05,Anuria
+511 2018-04-21 08:23:00,2017-05-08,Cord compression
+511 2018-04-21 08:23:00,2016-12-12,Pleural effusion
+511 2018-04-21 08:23:00,2016-11-18,Brain metastases
+511 2018-04-21 08:23:00,2016-10-13,HCAP (healthcare-associated pneumonia)
+511 2018-04-21 08:23:00,2016-09-03,Calculus of kidney
+511 2018-04-21 08:23:00,2016-05-26,"Upper respiratory infection, acute"
+511 2018-04-21 08:23:00,2016-05-25,Acute non-recurrent frontal sinusitis
+511 2018-04-21 08:23:00,2016-05-24,Metastatic renal cell carcinoma
+511 2018-04-21 08:23:00,2016-05-24,Cancer associated pain
+511 2018-04-21 08:23:00,2016-02-14,Glottic insufficiency
+511 2018-04-21 08:23:00,2015-02-03,Status post nephrectomy
+511 2018-04-21 08:23:00,2014-12-11,Metastatic cancer to bone
+210 2018-06-08 16:52:00,2018-04-30,Acute liver failure without hepatic coma
+210 2018-06-08 16:52:00,2018-04-30,Elevated INR
+210 2018-06-08 16:52:00,2018-04-30,Acute liver failure
+1110 2018-02-01 02:52:00,2018-01-31,Alcoholism in remission
+1110 2018-02-01 02:52:00,2018-01-31,Obesity (BMI 30-39.9)
+1110 2018-02-01 02:52:00,2018-01-31,Carpal tunnel syndrome of left wrist
+1110 2018-02-01 02:52:00,2018-01-31,Essential hypertension
+1110 2018-02-01 02:52:00,2018-01-31,GERD (gastroesophageal reflux disease)
+1110 2018-02-01 02:52:00,2018-01-31,Framingham cardiac risk >20% in next 10 years
+1110 2018-02-01 02:52:00,2018-01-31,Verrucous keratosis
+1416 2017-11-21 20:01:00,2017-11-21,Sepsis
+1416 2017-11-21 20:01:00,2016-03-23,Nuclear cataract of both eyes
+1416 2017-11-21 20:01:00,2015-07-19,Myeloma
+1416 2017-11-21 20:01:00,2015-07-19,Hypercalcemia
+1416 2017-11-21 20:01:00,2015-07-19,Electrolyte abnormality
+1416 2017-11-21 20:01:00,2015-07-19,Foot swelling
+1416 2017-11-21 20:01:00,2015-07-19,UTI (urinary tract infection) due to Enterococcus
+1416 2017-11-21 20:01:00,2015-07-19,Chest pain
+1416 2017-11-21 20:01:00,2015-07-19,Physical deconditioning
+1416 2017-11-21 20:01:00,2015-07-19,Decreased appetite
+1416 2017-11-21 20:01:00,2015-07-18,Thrombocytopenia
+1416 2017-11-21 20:01:00,2015-07-17,Generalized anxiety disorder
+1416 2017-11-21 20:01:00,2015-07-10,Pancytopenia
+1416 2017-11-21 20:01:00,2015-07-02,Failure to thrive
+1416 2017-11-21 20:01:00,2015-07-02,SIRS (systemic inflammatory response syndrome)
+1150 2017-09-08 12:59:00,2017-09-06,Obesity (BMI 30.0-34.9)
+1150 2017-09-08 12:59:00,2017-09-05,"Hydronephrosis, left"
+1150 2017-09-08 12:59:00,2017-09-05,Anuria
+1150 2017-09-08 12:59:00,2017-05-08,Cord compression
+1150 2017-09-08 12:59:00,2016-12-12,Pleural effusion
+1150 2017-09-08 12:59:00,2016-11-18,Brain metastases
+1150 2017-09-08 12:59:00,2016-10-13,HCAP (healthcare-associated pneumonia)
+1150 2017-09-08 12:59:00,2016-09-03,Calculus of kidney
+1150 2017-09-08 12:59:00,2016-05-26,"Upper respiratory infection, acute"
+1150 2017-09-08 12:59:00,2016-05-25,Acute non-recurrent frontal sinusitis
+1150 2017-09-08 12:59:00,2016-05-24,Metastatic renal cell carcinoma
+1150 2017-09-08 12:59:00,2016-05-24,Cancer associated pain
+1150 2017-09-08 12:59:00,2016-02-14,Glottic insufficiency
+1150 2017-09-08 12:59:00,2015-02-03,Status post nephrectomy
+1150 2017-09-08 12:59:00,2014-12-11,Metastatic cancer to bone
+789653591,2018-04-30,Acute liver failure without hepatic coma
+789653591,2018-04-30,Elevated INR
+789653591,2018-04-30,Acute liver failure
+91036024,2018-03-27,Alcohol abuse
+91036024,2018-03-27,Acute respiratory failure
+91036024,2018-03-27,"Uncontrolled type 2 diabetes mellitus, with long-term current use of insulin"
+91036024,2018-03-27,Stress-induced cardiomyopathy
+91036024,2018-03-27,Acute encephalopathy
+91036024,2018-03-23,Trauma
+65270172,2018-05-30,Severe obesity (BMI 35.0-39.9)
+65270172,2018-03-09,Parastomal hernia without obstruction or gangrene
+65270172,2018-03-08,Ventral hernia without obstruction or gangrene
+65270172,2018-02-03,Recurrent ventral hernia
+65270172,2016-01-27,"Hemorrhoids, thrombosed"
+65270172,2016-01-05,Ileostomy in place
+65270172,2015-09-30,Incisional hernia
+65270172,2015-09-02,Attention to ileostomy
+65270172,2015-03-04,Diarrhea
+65270172,2015-02-25,Acid reflux
+65270172,2015-01-23,S/P colectomy
+65270172,2014-11-27,Rectal bleeding
+65270172,2014-11-24,Diverticular disease
+65270172,2014-11-24,Bowel obstruction
+65270172,2014-11-24,Peritoneal abscess
+1024617922,2018-05-13,Gastric neoplasm
+1024617922,2017-09-15,Infective urethritis
+1024617922,2017-08-22,Adenocarcinoma
+1024617922,2015-01-15,Pulmonary embolus
+1024617922,2014-01-18,Genetic counseling
+1024617922,2011-12-11,Senile nuclear sclerosis
+1024617922,2011-12-11,Refractive error
+1024617922,2010-06-26,Osteopenia
+1024617922,2010-06-26,Postmenopausal
+1024617922,2010-06-26,Familial polyposis
+1024617922,2010-06-26,Depression
+1024617922,2010-06-26,Obesity
+1024617922,2009-10-29,Chronic cough
+1024617922,2009-10-29,Colon polyps
+1043849736,2017-09-27,"Obesity, morbid, BMI 40.0-49.9"
+1043849736,2017-09-26,SIRS (systemic inflammatory response syndrome)
+1043849736,2017-08-12,Pure hypercholesterolemia
+1043849736,2017-08-12,Type 2 diabetes mellitus with neurological manifestations
+1043849736,2017-06-27,Encounter for long-term current use of high risk medication
+1043849736,2016-12-22,"DDD (degenerative disc disease), cervical"
+1043849736,2016-12-22,Peripheral polyneuropathy
+1043849736,2016-08-20,Myasthenia gravis
+1043849736,2014-12-13,Abnormal CXR
+1043849736,2014-12-07,Immunocompromised
+1043849736,2014-12-07,"Essential hypertension, benign"
+1043849736,2013-07-27,ARF (acute renal failure)
+1043849736,2013-03-25,Thrombocytopenia
+1043849736,2013-03-25,Leukocytosis
+1043849736,2012-11-01,Fatty liver
+132 2018-05-27 18:27:00,2000-01-01,none listed
+495 2018-02-13 01:12:00,2018-01-30,"Popliteal artery occlusion, left"
+495 2018-02-13 01:12:00,2018-01-31,Obesity (BMI 30.0-34.9)
+495 2018-02-13 01:12:00,2018-01-31,Thrombus
+495 2018-02-13 01:12:00,2018-02-10,Pressure ulcer
+495 2018-02-13 01:12:00,2018-02-12,Soft tissue infection
+706 2017-10-22 09:10:00,2017-10-17,Coronary artery disease involving native coronary artery of native heart without angina pectoris
+706 2017-10-22 09:10:00,2017-10-14,Type 2 diabetes mellitus with diabetic chronic kidney disease
+706 2017-10-22 09:10:00,2017-10-14,Obstructive sleep apnea
+706 2017-10-22 09:10:00,2017-10-14,"Hypertension, benign"
+706 2017-10-22 09:10:00,2017-10-14,Critical aortic valve stenosis
+706 2017-10-22 09:10:00,2017-10-14,"Left ventricular systolic dysfunction, NYHA class 2"
+706 2017-10-22 09:10:00,2017-10-14,Stroke/cerebrovascular accident
+706 2017-10-22 09:10:00,2017-10-14,ESRD on hemodialysis
+706 2017-10-22 09:10:00,2017-10-13,Syncope
+706 2017-10-22 09:10:00,2017-10-11,"Obesity, morbid, BMI 40.0-49.9"
+706 2017-10-22 09:10:00,2017-10-11,Aortic stenosis
+706 2017-10-22 09:10:00,2017-09-06,NSTEMI (non-ST elevated myocardial infarction)
+706 2017-10-22 09:10:00,2017-01-16,Lung cancer
+706 2017-10-22 09:10:00,2016-12-20,Closed displaced fracture of greater trochanter of femur with routine healing
+706 2017-10-22 09:10:00,2016-10-16,Closed nondisplaced fracture of greater trochanter of left femur with routine healing
+1326 2017-07-28 12:45:00,2017-07-20,Acute encephalopathy
+1326 2017-07-28 12:45:00,2014-07-14,Hyponatremia
+1326 2017-07-28 12:45:00,2014-07-14,Alcohol dependence
+1326 2017-07-28 12:45:00,2014-07-14,Headache
+1326 2017-07-28 12:45:00,2014-07-13,Alcohol withdrawal
+1222 2017-10-03 12:50:00,2017-10-03,Hemothorax
+1222 2017-10-03 12:50:00,2017-09-26,Pneumoperitoneum
+1222 2017-10-03 12:50:00,2017-09-09,Diffuse large B cell lymphoma
+1222 2017-10-03 12:50:00,2017-09-05,Peritonitis
+1222 2017-10-03 12:50:00,2017-09-04,Acute hypoxemic respiratory failure
+76 2018-04-07 16:27:00,2018-04-06,Atrial fibrillation with RVR
+76 2018-04-07 16:27:00,2016-12-30,Elevated PSA
+76 2018-04-07 16:27:00,2016-03-11,PVC (premature ventricular contraction)
+76 2018-04-07 16:27:00,2016-03-11,Heart palpitations
+76 2018-04-07 16:27:00,2015-04-03,Squamous cell carcinoma of nose
+76 2018-04-07 16:27:00,2015-02-13,Lymphoproliferative disorder
+76 2018-04-07 16:27:00,2013-10-27,Lung nodules
+76 2018-04-07 16:27:00,2013-09-29,Thyroid nodule
+76 2018-04-07 16:27:00,2013-04-13,Xerostomia
+76 2018-04-07 16:27:00,2013-02-23,Glottic insufficiency
+76 2018-04-07 16:27:00,2012-02-17,Unspecified hypothyroidism
+76 2018-04-07 16:27:00,2011-09-11,Lymphedema
+76 2018-04-07 16:27:00,2011-06-30,Unspecified pleural effusion
+76 2018-04-07 16:27:00,2011-06-19,"Secondary and unspecified malignant neoplasm of lymph nodes of head, face, and neck"
+76 2018-04-07 16:27:00,2011-02-11,Hypertension
+753 2018-01-26 18:13:00,2018-01-26,"Obesity, morbid, BMI 40.0-49.9"
+753 2018-01-26 18:13:00,2018-01-26,Pregnancy
+753 2018-01-26 18:13:00,2018-01-25,SOB (shortness of breath)
+753 2018-01-26 18:13:00,2016-12-21,UTI (urinary tract infection)
+753 2018-01-26 18:13:00,2015-09-29,Mood disorder
+753 2018-01-26 18:13:00,2015-09-27,Asthma exacerbation
+753 2018-01-26 18:13:00,2015-09-25,Chest pain
+753 2018-01-26 18:13:00,2014-10-04,MS (multiple sclerosis)
+753 2018-01-26 18:13:00,2014-10-04,Asthma
+753 2018-01-26 18:13:00,2014-10-04,Acute pyelonephritis
+753 2018-01-26 18:13:00,2014-10-04,Pyelonephritis
+753 2018-01-26 18:13:00,2014-10-03,Seizures
+568 2017-11-20 19:20:00,2017-10-13,Atrial fibrillation with RVR
+568 2017-11-20 19:20:00,2017-10-11,Open wound anterior abdomen
+568 2017-11-20 19:20:00,2017-10-09,Lung transplant recipient
+568 2017-11-20 19:20:00,2017-09-19,AKI (acute kidney injury)
+568 2017-11-20 19:20:00,2017-09-14,Pressure ulcer
+568 2017-11-20 19:20:00,2017-09-11,Bradycardia
+568 2017-11-20 19:20:00,2017-09-04,"Ischemia, bowel"
+568 2017-11-20 19:20:00,2017-09-01,Open abdominal wall wound
+568 2017-11-20 19:20:00,2017-08-24,Shock
+568 2017-11-20 19:20:00,2017-07-10,Acute respiratory failure
+568 2017-11-20 19:20:00,2017-07-06,Abnormal pleural fluid
+568 2017-11-20 19:20:00,2017-07-02,Postoperative hemorrhage involving circulatory system following cardiac bypass
+568 2017-11-20 19:20:00,2017-06-25,Postoperative hemorrhagic shock
+568 2017-11-20 19:20:00,2017-06-05,Pulmonary hypertension associated with sarcoidosis
+568 2017-11-20 19:20:00,2017-06-05,Chronic hypoxemic respiratory failure
+560 2018-01-22 21:45:00,2018-01-22,Endoleak post (EVAR) endovascular aneurysm repair
+560 2018-01-22 21:45:00,2017-12-29,Atherosclerosis of native arteries of the extremities with ulceration
+560 2018-01-22 21:45:00,2017-08-15,Atherosclerosis of artery of extremity with gangrene
+560 2018-01-22 21:45:00,2017-08-07,Atrial fibrillation
+560 2018-01-22 21:45:00,2017-08-01,Lower limb ischemia
+560 2018-01-22 21:45:00,2017-07-07,Chronic ischemic heart disease
+560 2018-01-22 21:45:00,2017-07-05,Infected surgical wound
+560 2018-01-22 21:45:00,2017-07-03,Acute blood loss anemia
+560 2018-01-22 21:45:00,2017-07-03,Critical ischemia of lower extremity
+560 2018-01-22 21:45:00,2014-12-17,"Alcohol dependence, continuous"
+560 2018-01-22 21:45:00,2014-12-17,Alcohol withdrawal
+560 2018-01-22 21:45:00,2014-12-17,"Opioid dependence, continuous"
+560 2018-01-22 21:45:00,2014-12-17,Opioid withdrawal
+560 2018-01-22 21:45:00,2014-12-17,Nicotine dependence
+560 2018-01-22 21:45:00,2014-12-17,Nicotine withdrawal
+700202872,2018-01-14,Leukocytosis
+700202872,2018-01-11,Moderate protein-calorie malnutrition
+700202872,2018-01-11,Atrial fibrillation with RVR
+700202872,2018-01-11,Acute respiratory failure with hypoxia
+700202872,2018-01-07,"Ruptured, aorta"
+700202872,2018-01-04,Dissection of aorta
+502092911,2017-09-27,Elective surgery
+502092911,2017-09-27,S/P abdominal hysterectomy
+502092911,2017-02-26,Lung mass
+502092911,2017-02-26,Smoker
+1010055731,2017-11-04,Closed trimalleolar fracture of left ankle
+1010055731,2016-04-09,Colon adenocarcinoma
+1010055731,2013-11-08,"Essential hypertension, benign"
+1010055731,2013-11-08,Leukopenia
+1010055731,2013-11-08,Dyslipidemia
+1010055731,2013-11-08,DVT (deep venous thrombosis)
+1010055731,2013-11-08,Seizure disorder
+1010055731,2013-11-08,Pulmonary hypertension
+1010055731,2013-11-08,"Anemia, unspecified"
+1010055731,2013-11-08,DOE (dyspnea on exertion)
+1010055731,2013-11-08,Unspecified intellectual disabilities
+1010055731,2013-11-08,Obesity (BMI 30-39.9)
+1010055731,2013-02-04,Diastolic dysfunction
+1010055731,2011-04-05,OSA (obstructive sleep apnea)
+1010055731,2007-12-24,Vitamin B 12 deficiency
+445417736,2017-09-15,Physical deconditioning
+445417736,2017-09-15,Cancer
+445417736,2017-09-15,Malignant neoplasm of overlapping sites of bladder
+445417736,2017-09-15,Metastatic cancer to spine
+445417736,2017-09-15,History of MI (myocardial infarction)
+445417736,2017-09-15,Acute thoracic back pain
+445417736,2017-09-15,Melena
+445417736,2017-09-15,Severe esophageal dysplasia
+445417736,2017-09-14,Acute blood loss anemia
+445417736,2017-09-13,Hematemesis
+445417736,2017-07-14,Renal insufficiency
+445417736,2017-05-07,NSTEMI (non-ST elevated myocardial infarction)
+445417736,2017-05-04,Bladder cancer
+445417736,2016-12-09,Benign essential HTN
+445417736,2016-12-09,History of prostate cancer
+1066542088,2017-03-24,Pneumothorax
+1297444181,2017-08-07,Dysphasia
+1297444181,2017-08-07,Generalized anxiety disorder
+1297444181,2017-07-23,Cerebellar hemorrhage
+1297444181,2017-07-20,Hemorrhagic stroke
+1297444181,2017-07-20,Stroke (cerebrum)
+1297444181,2015-03-16,Lumbar radiculopathy
+1297444181,2015-03-16,Benign hypertension
+1297444181,2014-06-19,Healthcare maintenance
+1297444181,2014-05-18,Alcoholism
+1804508787,2017-09-29,"Ankle fracture, bimalleolar, closed, left, initial encounter"
+1804508787,2017-09-27,"Bimalleolar ankle fracture, left, closed, initial encounter"
+1804508787,2017-02-21,Type 2 diabetes mellitus without complication
+1804508787,2016-07-29,HTN (hypertension)
+1804508787,2016-07-29,Palpitations
+1804508787,2014-12-26,OE (otitis externa)
+1804508787,2014-12-26,"Dermatitis, eczematoid"
+1804508787,2013-12-22,Routine gynecological examination
+1804508787,2013-09-17,Hyperlipidemia
+1804508787,2012-09-28,Obesity
+1804508787,2012-09-28,OSA (obstructive sleep apnea)
+1804508787,2012-04-08,PVC (premature ventricular contraction)
+1804508787,2011-08-13,Adhesive capsulitis of left shoulder
+1804508787,2011-06-22,Depression
+1804508787,2011-06-22,Radial head fracture
+1911315048,2017-11-22,Pacemaker
+1911315048,2017-11-22,Pacemaker
+1911315048,2017-11-21,C1 cervical fracture
+1911315048,2016-12-24,Ataxia
+1911315048,2016-12-24,Altered mental status
+1911315048,2016-12-24,Continuous leakage of urine
+1911315048,2016-12-24,Encephalopathy acute
+1198213213,2017-11-25,Acute respiratory failure with hypoxia
+1198213213,2017-11-23,OSA (obstructive sleep apnea)
+1198213213,2017-11-23,Encounter for smoking cessation counseling
+1198213213,2017-11-23,"Obesity, morbid, BMI 40.0-49.9"
+1198213213,2017-11-23,Moderate asthma with acute exacerbation
+1198213213,2017-11-23,Pneumonia
+1198213213,2016-10-20,"Diabetes mellitus, new onset"
+1198213213,2016-10-08,Coughing
+1198213213,2016-10-08,Injury
+1198213213,2016-10-08,Bronchitis
+1198213213,2016-10-08,AR (allergic rhinitis)
+1198213213,2016-10-08,Shoulder contusion
+1198213213,2010-08-26,Fibromyalgia
+1342894426,2017-05-14,"UPJ stricture, acquired"
+1342894426,2016-07-31,Cholecystitis
+1342894426,2016-06-24,Complication of transplanted kidney
+1342894426,2015-10-25,Open abdominal wall wound
+1342894426,2015-09-25,Acute kidney injury
+1342894426,2015-09-23,Sepsis due to Gram negative bacteria
+1342894426,2015-09-23,On total parenteral nutrition (TPN)
+1342894426,2015-08-08,Type 2 diabetes mellitus with complication
+1342894426,2015-07-31,Enterococcal bacteremia
+1342894426,2015-06-01,Gram-positive bacteremia
+1342894426,2015-05-31,DVT (deep venous thrombosis)
+1342894426,2015-05-31,Crohn's disease
+1342894426,2015-05-31,Kidney transplant recipient
+1342894426,2014-06-21,Kidney transplant complication
+1342894426,2012-09-21,H/O kidney transplant
+1192381302,2018-02-02,"Lung transplant status, bilateral"
+1192381302,2018-02-01,Abnormal CXR
+1192381302,2018-01-26,Complication of transplanted lung
+1192381302,2018-01-08,Lung transplant recipient
+1192381302,2017-12-16,Atrial flutter
+1192381302,2017-12-04,S/P lung transplant
+1192381302,2017-12-02,Immunosuppressed status
+1192381302,2017-12-02,Encounter for aftercare following lung transplant
+1192381302,2017-12-02,High risk medication use
+1192381302,2017-10-26,Chronic kidney disease
+1192381302,2017-08-19,Hyperlipidemia
+1931861673,2018-01-24,Acquired pes planovalgus of right foot
+1931861673,2017-09-05,Arthritis of right foot
+1931861673,2017-09-05,Posterior tibial tendon dysfunction (PTTD) of right lower extremity
+1931861673,2015-08-08,Hyperuricemia
+1931861673,2013-03-15,Type 2 diabetes mellitus
+1931861673,2013-03-15,"Essential hypertension, benign"
+1931861673,2013-02-06,OSA on CPAP
+1931861673,2013-02-06,Leg edema
+1931861673,2013-02-06,Morbid obesity
+1931861673,2013-02-06,Gout
+1931861673,2013-02-06,Abnormal ECG
+1931861673,2013-02-06,Dyspnea on exertion
+739 2018-03-09 16:11:00,2018-03-07,Severe obesity (BMI 35.0-39.9)
+739 2018-03-09 16:11:00,2018-03-06,Non-small cell lung cancer
+739 2018-03-09 16:11:00,2018-03-06,Acute pulmonary embolism
+739 2018-03-09 16:11:00,2018-03-06,Pericardial effusion without cardiac tamponade
+739 2018-03-09 16:11:00,2018-03-06,Acute pulmonary edema
+739 2018-03-09 16:11:00,2018-03-06,Dyspnea on exertion
+739 2018-03-09 16:11:00,2018-03-06,Acute respiratory insufficiency
+739 2018-03-09 16:11:00,2018-03-06,Bilateral leg edema
+739 2018-03-09 16:11:00,2018-01-20,Acute deep vein thrombosis (DVT) of distal vein of right lower extremity
+739 2018-03-09 16:11:00,2017-06-25,Anxiety
+739 2018-03-09 16:11:00,2016-07-14,History of prostate cancer
+739 2018-03-09 16:11:00,2016-03-11,Squamous cell skin cancer
+739 2018-03-09 16:11:00,2015-12-08,COPD (chronic obstructive pulmonary disease)
+739 2018-03-09 16:11:00,2015-07-15,Stroke
+739 2018-03-09 16:11:00,2015-06-10,"Pleural effusion, malignant"
+689 2017-10-27 21:44:00,2017-10-10,Severe obesity (BMI 35.0-39.9)
+689 2017-10-27 21:44:00,2017-10-08,ICH (intracerebral hemorrhage)
+54 2018-04-13 17:55:00,2018-04-12,Sepsis
+54 2018-04-13 17:55:00,2018-04-07,Papillary serous endometrial adenocarcinoma
+54 2018-04-13 17:55:00,2018-04-07,Encounter for antineoplastic chemotherapy
+54 2018-04-13 17:55:00,2018-03-04,"Obesity, morbid, BMI 40.0-49.9"
+54 2018-04-13 17:55:00,2018-03-04,Respiratory failure
+54 2018-04-13 17:55:00,2018-02-27,Pleural effusion on right
+1287 2017-09-02 09:13:00,2017-08-30,Bacteremia
+1287 2017-09-02 09:13:00,2017-08-29,Dysphagia
+1287 2017-09-02 09:13:00,2017-08-25,Severe obesity (BMI 35.0-39.9)
+1287 2017-09-02 09:13:00,2017-08-15,"Secondary malignant neoplasm lymph nodes of head, face and neck"
+1287 2017-09-02 09:13:00,2017-08-07,Stridor
+1287 2017-09-02 09:13:00,2017-08-07,Neck swelling
+1287 2017-09-02 09:13:00,2017-08-01,Sedated due to medication
+1287 2017-09-02 09:13:00,2017-06-23,Cancer related pain
+1287 2017-09-02 09:13:00,2016-06-26,Metastatic breast cancer
+196 2018-05-15 20:52:00,2018-05-12,Hyponatremia
+196 2018-05-15 20:52:00,2018-05-12,HTN (hypertension)
+196 2018-05-15 20:52:00,2018-05-12,Coronary artery disease involving native coronary artery of native heart without angina pectoris
+196 2018-05-15 20:52:00,2018-05-12,Pulmonary embolism
+196 2018-05-15 20:52:00,2018-05-12,Stenosis of left carotid artery
+196 2018-05-15 20:52:00,2018-01-11,Nonspecific abnormal findings on radiological and examination of intrathoracic organs
+196 2018-05-15 20:52:00,2018-01-11,Encounter for pre-transplant evaluation for lung transplant
+535 2018-01-07 04:15:00,2018-01-03,Anxiety
+535 2018-01-07 04:15:00,2018-01-03,Encephalopathy
+535 2018-01-07 04:15:00,2018-01-03,Slow transit constipation
+535 2018-01-07 04:15:00,2018-01-03,Acute pain
+535 2018-01-07 04:15:00,2018-01-02,Shortness of breath
+535 2018-01-07 04:15:00,2018-01-02,Palliative care by specialist
+535 2018-01-07 04:15:00,2017-12-21,COPD with acute exacerbation
+535 2018-01-07 04:15:00,2017-12-02,Fungal infection of lung
+535 2018-01-07 04:15:00,2017-11-25,Lung mass
+535 2018-01-07 04:15:00,2017-11-24,Thrombocytosis
+535 2018-01-07 04:15:00,2017-11-24,Pneumonia
+535 2018-01-07 04:15:00,2017-11-17,Chronic pain syndrome
+535 2018-01-07 04:15:00,2017-11-05,Necrotizing pneumonia
+535 2018-01-07 04:15:00,2017-10-25,Dysphagia
+535 2018-01-07 04:15:00,2017-06-11,DNR (do not resuscitate) discussion
+49486740,2017-12-12,Acute abdomen
+49486740,2017-12-07,Aortic aneurysm
+49486740,2017-08-12,"Stenosis of extracranial carotid artery, left"
+49486740,2017-08-11,Descending thoracic aortic aneurysm
+49486740,2017-08-11,"Abscess, trunk"
+49486740,2017-08-07,"Essential hypertension, benign"
+49486740,2017-07-27,Patent ductus arteriosus
+49486740,2017-07-27,Preop cardiovascular exam
+49486740,2017-07-22,Syncope
+1868089896,2018-05-21,Deep vein thrombosis (DVT) of non-extremity vein
+1868089896,2018-05-19,Pressure ulcer
+1868089896,2018-05-19,Acute hypoxemic respiratory failure
+1868089896,2018-05-04,Alcohol abuse
+1868089896,2018-05-04,Slow transit constipation
+1868089896,2018-05-04,Cachexia
+1868089896,2018-05-04,SCC of lung (small cell carcinoma)
+1868089896,2018-05-04,Encephalopathy due to structural disorder of brain
+1868089896,2018-05-04,Brain metastases
+1868089896,2018-05-04,Soft hoarse voice
+1868089896,2017-04-23,Muscle spasticity
+1868089896,2016-04-21,Autosomal dominant hereditary spastic paraplegia
+1868089896,2011-03-11,Gait difficulty
+1868089896,2011-03-11,Urinary urgency
+1090802903,2017-10-25,Hypercalcemia
+1090802903,2017-10-25,Pressure ulcer
+1090802903,2016-07-01,Sensorineural hearing loss (SNHL) of both ears
+1090802903,2016-03-13,Uterine leiomyoma
+1090802903,2015-11-03,Chronic venous hypertension involving both sides
+1090802903,2015-10-25,Brain metastasis
+1090802903,2015-10-25,Lymphedema of both lower extremities
+1090802903,2015-09-19,Uterine leiomyosarcoma
+1090802903,2015-09-19,DVT (deep venous thrombosis)
+1090802903,2015-09-16,Physical deconditioning
+1090802903,2015-08-19,Acute pulmonary embolism
+1090802903,2015-08-15,Bone metastases
+1090802903,2015-08-15,Advance directive discussed with patient
+1090802903,2015-08-03,Neoplasm of brain causing mass effect on adjacent structures
+1090802903,2015-03-15,Encounter for antineoplastic chemotherapy
+114132144,2018-02-21,Essential hypertension
+114132144,2018-02-21,Obesity (BMI 30.0-34.9)
+114132144,2018-02-21,Obstructive jaundice
+114132144,2018-02-21,Paroxysmal atrial fibrillation
+114132144,2018-02-21,Bacteremia due to Gram-negative bacteria
+349315207,2017-11-15,HIV disease
+349315207,2017-11-15,Asthma exacerbation
+349315207,2017-11-15,Tobacco abuse
+349315207,2017-08-02,Sepsis
+349315207,2017-07-27,Encounter for medication monitoring
+349315207,2016-12-22,History of syphilis
+349315207,2015-05-16,Asthma
+349315207,2014-09-11,AIDS (acquired immune deficiency syndrome)
+349315207,2014-09-11,Abnormal ECG
+349315207,2014-09-11,Left ventricular dysfunction
+1269404448,2018-04-09,Acute respiratory failure
+1269404448,2018-04-08,Seizure
+144984714,2017-08-23,Spinal deformity
+144984714,2017-07-26,Adjacent segment disease with kyphosis
+144984714,2017-07-25,"Radiculopathy, lumbar region"
+144984714,2017-07-25,Lumbar facet arthropathy
+144984714,2017-07-25,Numbness
+144984714,2017-07-20,Chronic midline low back pain with right-sided sciatica
+144984714,2017-07-20,Sagittal plane imbalance
+190296449,2018-05-02,Pneumothorax
+190296449,2018-05-01,Basal cell carcinoma of nose
+732166221,2017-10-07,Shock
+732166221,2017-10-05,AKI (acute kidney injury)
+732166221,2017-10-05,Chemotherapy-induced neutropenia
+732166221,2017-10-05,Hyponatremia
+732166221,2017-09-26,Admission for antineoplastic chemotherapy
+732166221,2017-09-25,Malignant neoplasm of right testis
+732166221,2017-09-14,Neutropenic fever
+732166221,2017-08-03,Encounter for postoperative wound care
+732166221,2017-08-03,Encounter for postoperative wound care
+732166221,2017-06-15,Cavitary lesion of lung
+732166221,2017-06-14,Candidemia
+732166221,2017-06-14,Bowel perforation
+732166221,2017-06-14,Anaerobic bacteremia
+732166221,2017-06-13,Abdominal pain
+732166221,2017-05-09,Maintenance antineoplastic chemotherapy
+1114014701,2017-03-27,Increased urinary frequency
+1114014701,2015-07-14,"Pancytopenia, acquired"
+1114014701,2015-07-06,Mucositis
+1114014701,2015-05-11,On antineoplastic chemotherapy
+1114014701,2015-04-29,Coronary artery disease involving autologous vein coronary bypass graft without angina pectoris
+1854075163,2017-08-13,Pneumocephalus
+1854075163,2017-08-13,CSF leak
+1854075163,2017-07-04,Difficult airway
+1854075163,2017-07-01,Chordoma
+1854075163,2017-04-28,Bilateral hearing loss
+1854075163,2017-04-25,Cancer
+1854075163,2017-04-21,Acute post-operative pain
+1854075163,2017-04-21,Constipation due to opioid therapy
+1854075163,2017-04-21,Palliative care by specialist
+1854075163,2017-04-21,Osteomyelitis of skull
+1854075163,2017-04-19,Assistance needed for feeding
+1854075163,2017-04-19,Difficult airway
+1854075163,2016-05-27,S/P craniotomy
+1854075163,2015-06-18,Acute respiratory failure requiring reintubation
+1854075163,2015-06-06,Brain mass
+151625895,2017-11-14,Pressure ulcer
+151625895,2017-11-12,Carotid stenosis
+151625895,2017-11-10,Phocomelia of both upper extremities
+151625895,2017-11-07,"Obesity, morbid, BMI 40.0-49.9"
+151625895,2017-11-06,Encephalopathy
